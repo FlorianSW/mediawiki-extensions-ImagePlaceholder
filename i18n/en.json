@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Florian Schmidt"
+        ]
+    },
+	"imageplaceholder-desc": "Replaces non-existing images in an image gallery with a specified placeholder."
+}
